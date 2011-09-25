@@ -13,11 +13,8 @@ This open source project helps to simulate a battery system.
 
 The programming language is Phyton. So it can used easily with the SicPy tools. 
 
-<<<<<<< HEAD
 25.09.2011
 ----------
 Creation of the first lib file
 Adding the Peukert Equation
-=======
->>>>>>> 5087269662ae202ad6cf3418d33ef8fa2a1bb239
 
